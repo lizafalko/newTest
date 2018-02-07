@@ -1,0 +1,17 @@
+{
+  "generator-baumeister": {
+    "promptValues": {
+      "projectType": "A static website (Static site generator using Handlebars and Frontmatters)",
+      "boilerplateAmount": "Just a little – Get started with a few example files",
+      "customPaths": false,
+      "license": "All rights reserved",
+      "authorName": "lisa",
+      "authorUrl": "lizafalko.github.io",
+      "initialVersion": "0.0.0",
+      "additionalInfo": true,
+      "authorMail": "liza199797@mail.ru",
+      "banners": true,
+      "addDistToVersionControl": false
+    }
+  }
+}
